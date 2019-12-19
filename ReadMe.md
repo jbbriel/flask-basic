@@ -1,5 +1,5 @@
 # Flask API
-## Basic api for a fask setup for blogging
+## Basic Api for Flask Setup using Blogs
 
 ### Install requirements
 ```bash

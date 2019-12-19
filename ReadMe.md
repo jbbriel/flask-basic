@@ -1,7 +1,15 @@
 # Flask API
-#### Basic api for a fask setup for blogging
+## Basic api for a fask setup for blogging
 
-## How to Run the App
+### Install requirements
+```bash
+$ pip install -r requirements.txt
+```
+##### OR
+```bash
+$ pip3 install -r requirements.txt
+```
+### How to Run the App
 
 ```bash
 $ export FLASK_APP=flaskr
@@ -9,7 +17,7 @@ $ export FLASK_ENV=development
 $ flask run
 ```
 
-## Example output
+### Example output
 
 ```bash
  * Serving Flask app "flaskr" (lazy loading)
